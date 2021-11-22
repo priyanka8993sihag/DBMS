@@ -1,0 +1,7 @@
+D20088,Rahul,Verma,11/12/89,30,Male,Mandi,7737662591,48
+D20091,Ajay,Sharma,11/10/89,21,Male,Mumbai,7737662594,40
+D20087,Ishwar,Prajapati,10/12/89,26,Male,Jodhpur,7737662590,70
+D20086,Praveen,Kumar,09/12/89,32,Male,Jaipur,7737662589,96
+D20090,Ekta,Sharma,10/10/89,20,Female,Delhi,7737662593,53
+D20089,Priyanka,Choudhary,12/12/89,28,Female,Jaipur,7737662592,75
+D20092,Riya,Sharma,0,32,Female,Sikar,8787983467,59
