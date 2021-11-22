@@ -13,4 +13,4 @@ The GUI based Student Database Management System has designed and im-plemented s
 8.  Export:Clicking on this button will open a file window to save therecords in external files.
 9.  Exit:Click this button to close the software
 
-To run the code please run the command python3 main.py
+To run the code please run the command $python3 main.py
